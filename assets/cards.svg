@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="360" viewBox="0 0 860 360" role="img" aria-label="Opus: the teacher's pet. Fable: the smart kid at the back.">
+<foreignObject x="0" y="0" width="860" height="360">
+<div xmlns="http://www.w3.org/1999/xhtml" style="display:flex;gap:20px;height:360px;font-family:ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+<div style="flex:1;background:#F4EEE4;color:#1F1D1A;border-radius:14px;padding:30px 30px 26px;box-sizing:border-box;border:1px solid #7A706455;display:flex;flex-direction:column">
+<div style="font-family:ui-serif,Georgia,'Times New Roman',serif;font-size:46px;line-height:1;letter-spacing:-0.5px">Opus</div>
+<div style="font-family:ui-monospace,Consolas,monospace;font-size:13px;color:#C2603F;margin:10px 0 18px">opus 5.5 · effort high</div>
+<div style="font-family:ui-serif,Georgia,serif;font-style:italic;font-size:17px;line-height:1.4;margin-bottom:16px">The teacher's pet. Checks everything, never pushes back.</div>
+<ul style="margin:0;padding-left:18px;font-size:14px;line-height:1.35;color:#1F1D1A"><li style="margin:0 0 6px">refactors, migrations, rewrites</li><li style="margin:0 0 6px">bugs with a repro, tests, tuning</li><li style="margin:0 0 6px">line-by-line code review</li></ul>
+<div style="margin-top:auto;font-size:13px;color:#7A7064;border-top:1px solid #7A706444;padding-top:12px">Tell it: if this is a bad idea, say so.<br/>Watch for: specs that keep growing.</div></div><div style="flex:1;background:#1F1D1A;color:#F0E6D8;border-radius:14px;padding:30px 30px 26px;box-sizing:border-box;border:1px solid #9A908355;display:flex;flex-direction:column">
+<div style="font-family:ui-serif,Georgia,'Times New Roman',serif;font-size:46px;line-height:1;letter-spacing:-0.5px">Fable</div>
+<div style="font-family:ui-monospace,Consolas,monospace;font-size:13px;color:#D97757;margin:10px 0 18px">fable 5.2 · effort medium</div>
+<div style="font-family:ui-serif,Georgia,serif;font-style:italic;font-size:17px;line-height:1.4;margin-bottom:16px">The smart kid at the back. Questions the premise, knows when to stop.</div>
+<ul style="margin:0;padding-left:18px;font-size:14px;line-height:1.35;color:#F0E6D8"><li style="margin:0 0 6px">looks, animation, game feel</li><li style="margin:0 0 6px">architecture and naming</li><li style="margin:0 0 6px">auditing a thread that is stuck</li></ul>
+<div style="margin-top:auto;font-size:13px;color:#9A9083;border-top:1px solid #9A908344;padding-top:12px">Give it: 20 minutes and one thing.<br/>Watch for: small details it skipped.</div></div>
+</div></foreignObject></svg>

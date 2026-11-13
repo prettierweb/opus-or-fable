@@ -13,6 +13,10 @@
   <a href="https://www.youtube.com/watch?v=XtykeVoSmP8"><code>watch theo's video</code></a>
 </p>
 
+<p align="center">
+  <img src="assets/cards.svg" width="860" alt="Opus: the teacher's pet, for checkable work. Fable: the smart kid at the back, for taste.">
+</p>
+
 ---
 
 ### `$ cat credits`
