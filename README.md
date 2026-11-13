@@ -23,8 +23,8 @@
 
 The model rules are distilled from **Theo**'s video
 [I think I figured it out](https://www.youtube.com/watch?v=XtykeVoSmP8) ([@theo](https://x.com/theo), t3.gg),
-42 minutes on choosing between Opus 5.5 and Fable 5.2 for coding. The good ideas are his; watch it for the
-reasoning.
+42 minutes on choosing between Opus 5.5 and Fable 5.2 for coding. The good ideas are his. Every rule in the
+skill links to the minute where he says it, so you can check it against the source.
 
 The burst and cost rules are mine, from running Claude Code and T3 Code all day on a Unity game, a browser and
 a handful of web apps, and hitting the rate limit with too many helper chats going at once.
@@ -38,8 +38,11 @@ can the result be checked?
 
 opus never pushes back      → add "if you think this is a good idea, do it,
                                otherwise suggest something else"
+opus applies all feedback   → cap review loops, or 30 lines become 1,000
+opus options all the same?  → ask fable for the spread
 effort past high?           → switch models instead
-thread stuck circling?      → have fable audit it
+max effort?                 → don't. it overthinks simple things
+thread stuck circling?      → have fable audit it. it fixes it or says ship
 long autonomous runs?       → no. 20 min on fable, 30 on opus, then show me
 helpers?                    → two at most, model + effort in every title
 ```
