@@ -1,8 +1,8 @@
-<h1 align="center">Theo's words → skills</h1>
+<h1 align="center">opus-or-fable</h1>
 
 <p align="center">
-  Agent skills distilled from <b>Theo</b>'s (<a href="https://x.com/theo">@theo</a>, t3.gg) videos on working with coding agents.<br>
-  Every rule links to the minute where he says it, so you can check it against the source.
+  Two agent skills for Claude Code: pick the model and effort for each task, and have other models review the result.<br>
+  Built on ideas from <a href="https://x.com/theo">Theo</a>'s (t3.gg) videos. Every rule links to the minute he says it.
 </p>
 
 <p align="center">
@@ -88,9 +88,9 @@ The caps are ours. Not worth it on pay-per-token pricing.
 **Claude Code**, for every project:
 
 ```bash
-git clone https://github.com/prettierweb/theos-words-to-skills
+git clone https://github.com/prettierweb/opus-or-fable
 mkdir -p ~/.claude/skills
-cp -r theos-words-to-skills/skills/* ~/.claude/skills/
+cp -r opus-or-fable/skills/* ~/.claude/skills/
 ```
 
 For one project only, copy them into that repo's `.claude/skills/` instead. Claude picks them up on its own, or
