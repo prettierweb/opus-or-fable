@@ -1,5 +1,7 @@
 <h1 align="center">opus-or-fable</h1>
 
+<p align="center">⭐ if you like this, please star it, it really helps people find it ⭐</p>
+
 <p align="center">
   Two agent skills for Claude Code: pick the model and effort for each task, and have other models review the result.<br>
   Built on ideas from <a href="https://x.com/theo">Theo</a>'s (t3.gg) videos. Every rule links to the minute he says it.
